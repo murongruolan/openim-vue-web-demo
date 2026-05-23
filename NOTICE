@@ -1,0 +1,18 @@
+openim-vue-web-demo
+
+This project is a community Vue 3 + Vite web-only migration of:
+
+  openimsdk/openim-electron-demo
+  https://github.com/openimsdk/openim-electron-demo
+
+The migration baseline is openim-electron-demo v3.8.3.
+
+The original project, OpenIM SDKs, OpenIM Server ecosystem, names, and
+related trademarks belong to their respective owners.
+
+This repository is not an official OpenIM Vue project. It is maintained
+as a community migration for developers who want a Vue Web reference
+implementation while preserving the original Web API and WASM SDK call
+flows where migrated.
+
+License: GNU Affero General Public License v3.0 (AGPL-3.0).
